@@ -1,0 +1,28 @@
+📜 Licencia
+
+MIT License.
+
+✉️ Autor
+
+José Pablo Zamora
+Investigación independiente en dinámica de fluidos, sistemas no lineales y geometría computacional.
+
+🚀 Próximos pasos
+
+V11 con refinamiento del proyector espectral
+
+Implementar anti-aliasing cúbico
+
+Comparar con benchmarks de Hou–Luo 2012 y Luo–Hou 2014
+
+Explorar GPU vía CuPy
+
+🧠 Inspirado en
+
+Hou & Luo (2012–2014) — Potential Finite-Time Blow-up
+
+Beale–Kato–Majda (1984) — Vorticity Growth Condition
+
+FFT spectral methods for Navier–Stokes
+
+El proyecto está listo para que cualquier persona continúe desde aquí.
